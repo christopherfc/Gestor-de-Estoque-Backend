@@ -22,7 +22,7 @@ Esta é uma API simples desenvolvida em Node.js utilizando o framework Express e
    git clone https://github.com/christopherfc/Gestor-de-Estoque-Backend.git
 2. Navegue até o diretório do projeto
    ```bash
-   cd produtos-api
+   cd Gestor-de-Estoque-Backend
 3. Instale as dependências:
    ```bash
    npm install
