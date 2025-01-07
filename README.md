@@ -28,7 +28,7 @@ Esta é uma API simples desenvolvida em Node.js utilizando o framework Express e
    npm install
 4. Inicie o servidor:
    ```bash
-   npm start
+   node server.js
    
 O servidor estará disponível em http://localhost:3001
 
