@@ -19,7 +19,7 @@ Esta é uma API simples desenvolvida em Node.js utilizando o framework Express e
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/produtos-api.git
+   git clone https://github.com/christopherfc/Gestor-de-Estoque-Backend.git
 2. Navegue até o diretório do projeto
    ```bash
    cd produtos-api
